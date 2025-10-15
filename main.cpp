@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-    std::cout << "byaka" << std::endl;
+    std::cout << "LLLL" << std::endl;
     return 0;
 }
 
