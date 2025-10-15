@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-    std::cout << "git addbeda" << std::endl;
+    std::cout << "byaka" << std::endl;
     return 0;
 }
 
